@@ -1,1 +1,1 @@
-#Calculator that is wrong by a coule digits everytime. idk eiter.
+Calculator that is wrong by a coule digits everytime. idk eiter.
